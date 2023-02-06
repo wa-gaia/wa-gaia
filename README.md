@@ -7,10 +7,8 @@
 My name is Carlos and I'm focused on specializing as a Full Stack ( Python ) developer and Data Scientist.
 
 🎓 I have a bachelor's degree in Civil Engineering (in training) and a technician in Technology in Buildings and I currently work as such, but I intend to change careers soon and I'm working hard for that.
-
  
 🎓 I am currently majoring in Data Science (Computer Science and Informatics).
-
 
 ☕ I am currently learning Python, HTML, CSS, Django, Flask, SQL, and techniques of Data Mining, Data Modeling and Visualization, Machine Learning, Artificial Intelligence, Deep Learning Algorithm, Artificial Neural Networks and Cybersecurity.
 
@@ -18,9 +16,7 @@ My name is Carlos and I'm focused on specializing as a Full Stack ( Python ) dev
 
 🔭 I'm looking for a job opportunity as a full stack developer or as a data scientist.
 
-
 In my free time I like to play video games, travel, listen to good music and drink good wine (cheers).
-
 
 You can ask me anything, I'll gladly answer it if I can
 
