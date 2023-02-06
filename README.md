@@ -22,18 +22,17 @@ My name is Carlos and I'm focused on specializing as a Full Stack ( Python ) dev
 In my free time I like to play video games, travel, listen to good music and drink good wine (cheers).
 
 
+You can ask me anything, I'll gladly answer it if I can
 
 
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=wa-gaia&show_icons=true&theme=dark#gh-dark-mode-only)
 
 
-You can ask me anything, I'll gladly answer it if I can
-
-💻
 
 
 
-You can find me here too 👇
+
+# You can find me here too 👇
 
 
 <a href="https://www.linkedin.com/in/kalombola/" target="_blank">
@@ -67,11 +66,7 @@ You can find me here too 👇
  <br/>
  <br>
  
- <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=wa-gaia&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
+ 
 
 # Work In Progress 👇
 
