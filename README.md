@@ -1,4 +1,4 @@
-## Hello! Eu sou o Carlos Mandelle <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
+## Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
 
 
 <img src="https://komarev.com/ghpvc/?username=wa-gaia&color=yellow" alt="Profile views" /> 
@@ -20,6 +20,13 @@ My name is Carlos and I'm focused on specializing as a Full Stack ( Python ) dev
 
 
 In my free time I like to play video games, travel, listen to good music and drink good wine (cheers).
+
+
+
+
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=wa-gaia&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=wa-gaia&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
 You can ask me anything, I'll gladly answer it if I can
